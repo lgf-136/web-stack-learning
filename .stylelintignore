@@ -14,9 +14,9 @@
 *.jsonc
 
 # 测试和打包目录
-/test/
-/dist/
-/node_modules/
+**/test/
+**/dist/
+**/node_modules/
 dist-ssr
 *.local
 
